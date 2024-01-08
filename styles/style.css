@@ -340,8 +340,34 @@
     color: #000855;
     transition: 0.5s;
 }
-
-
+.footer-container{    
+    background: #010142;}
+.footer-text div{}
+.footer-text{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    padding: 7%;}
+.footer-text div h1{}
+.footer-text div img{    
+    width: 9%;
+    margin: -1.8% auto;}
+hr{ 
+    width: 70%;
+    margin: -1% auto;}
+.footer-link{
+    margin: -3% 35%;
+    padding: 6%;}
+.footer-link img{
+    margin-left: 3.5%;}
+.footer-link img a{}
+.copy-write-division{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;}
+.copy-write-division h1{
+    color: #7f7f7f;
+}
 
 
 
