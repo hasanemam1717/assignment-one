@@ -153,11 +153,53 @@
     color: #ffffff;
     transition: 0.5s;
 }
-
-
-
-
-
+.best-offer{    
+    display: flex;
+    width: 69.5%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2%;
+    margin: 8% auto;}
+.offer-text{    
+    width: 33.33%;
+    }
+.offer-text h1{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.offer-text h2{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400; }
+.offer-text h3{color: #F00;
+    font-size: 24px;
+    font-weight: 500;}
+.offer-pic{width: 33.33%;}
+.offer-pic div{}
+.offer-pic div img{
+    border: 7px solid #850505;
+    width: 70%;
+    height: 100%;
+    border-radius: 50%;
+    padding: 3%;
+}
+.offer-year{
+    width: 33.33%;
+}
+.offer-year h1{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.offer-year h2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;}
+.offer-year-pic{}
+.offer-year-pic img{    width: 23%;}
 
 
 
